@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\monTP_TAA\WSpaceTAA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1068971028.index
+532798340.index
+437905161.index
+2153132200.index
+3736702498.index

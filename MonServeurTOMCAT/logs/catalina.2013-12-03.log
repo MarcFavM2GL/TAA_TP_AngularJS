@@ -1,0 +1,46 @@
+déc. 03, 2013 12:58:28 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ThinkPad\Bluetooth Software\;C:\Program Files\ThinkPad\Bluetooth Software\syswow64;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;.
+déc. 03, 2013 12:58:30 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+déc. 03, 2013 12:58:30 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+déc. 03, 2013 12:58:30 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2836 ms
+déc. 03, 2013 12:58:31 PM org.apache.catalina.core.StandardService startInternal
+INFO: Démarrage du service Catalina
+déc. 03, 2013 12:58:31 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.47
+déc. 03, 2013 12:58:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire C:\monTP_TAA\MonServeurTOMCAT\webapps\docs de l'application web
+déc. 03, 2013 12:58:32 PM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [130] milliseconds.
+déc. 03, 2013 12:58:32 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire C:\monTP_TAA\MonServeurTOMCAT\webapps\examples de l'application web
+déc. 03, 2013 12:58:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire C:\monTP_TAA\MonServeurTOMCAT\webapps\host-manager de l'application web
+déc. 03, 2013 12:58:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire C:\monTP_TAA\MonServeurTOMCAT\webapps\manager de l'application web
+déc. 03, 2013 12:58:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire C:\monTP_TAA\MonServeurTOMCAT\webapps\ROOT de l'application web
+déc. 03, 2013 12:58:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+déc. 03, 2013 12:58:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+déc. 03, 2013 12:58:34 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4069 ms
+déc. 03, 2013 1:06:57 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+déc. 03, 2013 1:06:58 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+déc. 03, 2013 1:06:58 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+déc. 03, 2013 1:06:58 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Arrêt du service Catalina
+déc. 03, 2013 1:07:01 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+déc. 03, 2013 1:07:01 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+déc. 03, 2013 1:07:01 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+déc. 03, 2013 1:07:01 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

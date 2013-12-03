@@ -1,0 +1,53 @@
+2013-12-03 13:32:36,537 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:32:39,142 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:32:57,581 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:00,233 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:00,374 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/sun/jersey/archetypes/jersey-quickstart-webapp/1.18/jersey-quickstart-webapp-1.18.jar
+2013-12-03 13:33:00,670 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/sun/jersey/archetypes/jersey-quickstart-webapp/1.18/jersey-quickstart-webapp-1.18.jar
+2013-12-03 13:33:33,492 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:36,051 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:36,098 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/com/sun/jersey/archetypes/jersey-quickstart-webapp/1.18/jersey-quickstart-webapp-1.18.pom
+2013-12-03 13:33:36,113 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/com/sun/jersey/archetypes/jersey-quickstart-webapp/1.18/jersey-quickstart-webapp-1.18.pom
+2013-12-03 13:33:36,581 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\monTP_TAA\WSpaceTAA\TPjersey\pom.xml
+2013-12-03 13:33:44,038 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: fr.favereau.taa:TPjersey:0.0.1-SNAPSHOT @ C:\monTP_TAA\WSpaceTAA\TPjersey\pom.xml.
+2013-12-03 13:33:44,054 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:44,132 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-servlet/1.18/jersey-servlet-1.18.pom
+2013-12-03 13:33:44,147 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-servlet/1.18/jersey-servlet-1.18.pom
+2013-12-03 13:33:44,210 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:44,303 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.18/jersey-project-1.18.pom
+2013-12-03 13:33:44,366 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-project/1.18/jersey-project-1.18.pom
+2013-12-03 13:33:44,646 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:44,693 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.18/jersey-server-1.18.pom
+2013-12-03 13:33:44,756 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.18/jersey-server-1.18.pom
+2013-12-03 13:33:44,974 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:45,021 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.18/jersey-core-1.18.pom
+2013-12-03 13:33:45,036 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.18/jersey-core-1.18.pom
+2013-12-03 13:33:45,177 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:45,224 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.18/jersey-json-1.18.pom
+2013-12-03 13:33:45,255 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.18/jersey-json-1.18.pom
+2013-12-03 13:33:45,894 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:45,957 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-client/1.18/jersey-client-1.18.pom
+2013-12-03 13:33:45,957 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-client/1.18/jersey-client-1.18.pom
+2013-12-03 13:33:46,362 [Worker-12] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 4
+2013-12-03 13:33:46,456 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-servlet/1.18/jersey-servlet-1.18.jar
+2013-12-03 13:33:46,472 [New I/O client worker #13-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.18/jersey-server-1.18.jar
+2013-12-03 13:33:46,487 [New I/O client worker #13-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.18/jersey-core-1.18.jar
+2013-12-03 13:33:46,487 [New I/O client worker #13-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.18/jersey-json-1.18.jar
+2013-12-03 13:33:46,503 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-client/1.18/jersey-client-1.18.jar
+2013-12-03 13:33:46,643 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-servlet/1.18/jersey-servlet-1.18.jar
+2013-12-03 13:33:46,955 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-client/1.18/jersey-client-1.18.jar
+2013-12-03 13:33:47,376 [New I/O client worker #13-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-json/1.18/jersey-json-1.18.jar
+2013-12-03 13:33:47,408 [New I/O client worker #13-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-server/1.18/jersey-server-1.18.jar
+2013-12-03 13:33:48,032 [New I/O client worker #13-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jersey/jersey-core/1.18/jersey-core-1.18.jar
+2013-12-03 13:33:49,264 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-12-03 13:33:50,013 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2013-12-03 13:33:53,492 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: fr.favereau.taa:TPjersey:0.0.1-SNAPSHOT @ C:\monTP_TAA\WSpaceTAA\TPjersey\pom.xml.
+2013-12-03 13:33:53,570 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TPjersey/src/main/java
+2013-12-03 13:33:53,585 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TPjersey/src/main/resources
+2013-12-03 13:33:53,788 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TPjersey/src/test/java
+2013-12-03 13:34:26,377 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 49 sec
+2013-12-03 13:34:33,788 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: fr.favereau.taa:TPjersey:0.0.1-SNAPSHOT @ C:\monTP_TAA\WSpaceTAA\TPjersey\pom.xml.
+2013-12-03 13:34:34,240 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-03 13:34:34,271 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-12-03 13:34:34,271 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-03 13:34:34,271 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\monTP_TAA\WSpaceTAA\TPjersey\src\test\resources
